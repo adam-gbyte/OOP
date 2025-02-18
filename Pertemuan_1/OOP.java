@@ -1,3 +1,7 @@
+// Nama : Adam Gumilang
+// Kelas : TI23C
+// NIM : 20230040296
+
 package Pertemuan_1;
 
 import javax.swing.*;
@@ -16,4 +20,3 @@ class TugasOOP_2 {
         JOptionPane.showInputDialog(null, "Siapa nama kamu?", "Masukkan nama", 3);
     }
 }
-
